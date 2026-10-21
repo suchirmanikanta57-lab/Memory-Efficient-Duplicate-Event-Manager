@@ -1,4 +1,0 @@
-# Testing and optional visualisation dependencies
-pytest>=7.0
-pytest-cov>=4.0
-matplotlib>=3.5
